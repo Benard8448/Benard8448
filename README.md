@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Benard MUGISHA
-- 👀 I’m interested in data analysis using R
-- 🌱 I’m currently learning how to generate research reports using rmarkdown. 
+- 👀 I’m interested in Data Analysis using R
+- 🌱 I’m currently mastering how to generate documents and research reports using Quarto. 
 - 📫 You can reach me at Benard8448@gmail.com
